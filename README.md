@@ -1,5 +1,5 @@
 # GameOverWeb Data Base
-Esta base de datos en MySql pertenece a la aplicación gameoverweb: https://github.com/BrandonGrimaldoM/gameoverweb
+Esta base de datos en MySql pertenece a la aplicación gameoverweb hecha con ayuda del ORM de Django: https://github.com/BrandonGrimaldoM/gameoverweb
 
 # ERM
 ![](https://github.com/BrandonGrimaldoM/GameOverWebDataBase/blob/master/BD/ERM.PNG)
